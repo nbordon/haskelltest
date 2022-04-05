@@ -1,4 +1,6 @@
 
-dobleDe x = x * 2;
+dobleDe x = x * 2
 
-tripleDe x = x * 3;
+tripleDe x = x * 3
+
+cuadrupleDe x = x * 4
